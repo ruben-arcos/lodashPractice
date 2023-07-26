@@ -1,0 +1,24 @@
+{
+  "name": "lodashpractice",
+  "version": "1.0.0",
+  "description": "Lodash Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruben-arcos/lodashPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruben-arcos/lodashPractice/issues"
+  },
+  "homepage": "https://github.com/ruben-arcos/lodashPractice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^10.2.0"
+  }
+}
